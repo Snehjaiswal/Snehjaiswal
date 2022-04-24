@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Snehjaiswal/github-readme-activity-graph"><img alt="Sneh jaiswal Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Snehjaiswal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/thapatechnical/github-readme-activity-graph"><img alt="Sneh jaiswal Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thapatechnical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
