@@ -87,3 +87,6 @@
 <a href="https://github.com/Snehjaiswal?tab=followers"><img src="https://img.shields.io/github/followers/Snehjaiswal?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p href="https://komarev.com/ghpvc/?username=Snehjaiswal-github-username&style=flat-square" > </p>
+<a href="https://komarev.com/ghpvc/?username=Snehjaiswal-github-username&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=Snehjaiswal">
+</a>
