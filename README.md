@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+ <a href="https://snehjaiswal.github.io/My-Portfolio-code/" />- 👨‍💻 All of my projects are available at **[My Portfolio]()**</a>
 
 - 📫 How to reach me **snehjaiswal20@gmail.com**
 
