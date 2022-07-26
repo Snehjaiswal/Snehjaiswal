@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
-- 🌱  I’m currently learning **Advanced JavaScript and Java.**
+- 🌱  I’m currently learning **Advanced JavaScript and SQL.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
