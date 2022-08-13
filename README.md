@@ -31,14 +31,14 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white">
-</p><br>
+</p>
 
 ### 👉 Back-end
 
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-</p><br>
+</p>
 
 ### 👉 Programming Language
 
@@ -47,7 +47,7 @@
 <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>-->
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-%235C6BC0.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</p><br>
+</p>
 
 ### 👉 Database
 
@@ -55,7 +55,7 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="SQL" src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 <img alt="SqlServer" src ="https://img.shields.io/badge/sqlserver-%23316192.svg?style=for-the-badge&logo=sqlserver&logoColor=white"/>
-</p><br>
+</p>
 
 ### 👉 Version Control
 
@@ -64,7 +64,7 @@
 <!-- <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> -->
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <!-- <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> -->
-</p><br>
+</p>
 
 ### 👉 Others
 
@@ -73,14 +73,14 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-%230072C6.svg?style=for-the-badge&logo=Postman-devops&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%230db7ed.svg?style=for-the-badge&logo=Heroku&logoColor=white"/>
-</p><br>
+</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Snehjaiswal">
 </a>
 <a href="https://github.com/Snehjaiswal?tab=followers"><img src="https://img.shields.io/github/followers/Snehjaiswal?label=Followers&style=social" alt="GitHub Badge"></a>
-<br/><br/>
+<br/>
 
 ## 🤝 Connect with me
 
@@ -90,16 +90,16 @@
 <a href = "https://www.instagram.com/mr_jaiswal001/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p><br><hr>
 
-## 🤝 Status 
+## ⚙️ Status 
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snehjaiswal&show_icons=true&locale=en&theme=algolia" alt="Snehjaiswal" />
 </p>
-<br />
+
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Snehjaiswal&theme=algolia&hide_border=true" alt="Snehjaiswal" />
-</p><br />
+</p><br /><br/>
 
 
 <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
