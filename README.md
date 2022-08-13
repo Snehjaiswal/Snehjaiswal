@@ -80,7 +80,7 @@
     <img src="https://komarev.com/ghpvc/?username=Snehjaiswal">
 </a>
 <a href="https://github.com/Snehjaiswal?tab=followers"><img src="https://img.shields.io/github/followers/Snehjaiswal?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
+<br/><br/>
 
 ## 🤝 Connect with me
 
@@ -88,7 +88,18 @@
 <a href = "www.linkedin.com/in/sneh-jaiswal-431165229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/mr_jaiswal001/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p><br><hr>
+
+## 🤝 Status 
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Snehjaiswal&show_icons=true&locale=en&theme=algolia" alt="Snehjaiswal" />
 </p>
+<br />
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Snehjaiswal&theme=algolia&hide_border=true" alt="Snehjaiswal" />
+</p><br />
 
 
 <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
