@@ -1,12 +1,9 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sneh</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India 🙌</h3>
+<img src="https://github-hero-readme.vercel.app/api?username=Snehjaiswal&linkedin=Snehjaiswal&twitter=Snehjaiswal&description=Student%20Lelner%20%20|%20JavaScript%20%E2%99%A5&width='100%'">
 
 <br>
-<br>
+
 ## 🙋‍♂️ About Me
-
-
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
@@ -105,3 +102,5 @@
 <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
 <p align="center">men at work!</p>
 
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sneh</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India 🙌</h3> -->
