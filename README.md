@@ -102,5 +102,10 @@
 <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
 <p align="center">men at work!</p>
 
+
+
+
+<p align="center"><img src="[./images/gif/Developer.gif](https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif)" width="200px"/></p>
+<p align="center">men work at team!</p>
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sneh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India 🙌</h3> -->
