@@ -75,7 +75,7 @@
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Snehjaiswal">
-</a>
+</a> 
 <a href="https://github.com/Snehjaiswal?tab=followers"><img src="https://img.shields.io/github/followers/Snehjaiswal?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
 
@@ -88,7 +88,7 @@
 </p><br><hr>
 
 ## ⚙️ Status 
-
+<br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snehjaiswal&show_icons=true&locale=en&theme=algolia" alt="Snehjaiswal" />
 </p>
@@ -98,9 +98,14 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Snehjaiswal&theme=algolia&hide_border=true" alt="Snehjaiswal" />
 </p><br /><br/>
 
-
+<!-- 
 <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
-<p align="center">men at work!</p>
+<p align="center">men at work!</p><br><br><br> -->
 
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sneh</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India 🙌</h3> -->
+
+<p align="center"><img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="600px"/></p>
+<h2 align="center">Men at work!</h2>
+
+
+<p align="center"><img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" width="600px"/></p>
+<h2 align="center">men work at team!</h2>
