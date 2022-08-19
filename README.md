@@ -1,5 +1,5 @@
 
-<img src="https://github-hero-readme.vercel.app/api?username=Snehjaiswal&linkedin=Snehjaiswal&twitter=Snehjaiswal&description=Student%20Lelner%20%20|%20JavaScript%20%E2%99%A5&width='100%'">
+<img src="https://github-hero-readme.vercel.app/api?username=Snehjaiswal&linkedin=Snehjaiswal&twitter=Snehjaiswal&description=Student%20Lerner%20%20|%20JavaScript%20%E2%99%A5&width='100%'">
 
 <br>
 
